@@ -14,14 +14,6 @@
 
 <br>
 
-## 🧑 About Me
-
-<p style="text-align: justify;">
-I enjoy taking walks in the city center, watching the world go by and observing people. Music is a big part of my life - I love progressive psytrance and metal. Computers fascinate me, and I'm interested in technology.
-
-As for dislikes, I'm not a fan of traveling or long car rides. I'm skeptical about electric cars like Teslas - the idea of computers on wheels doesn't sit well with me. TVs are another no-go; the constant audio makes me feel sick and tired.
-</p>
-
 ## 🛡️ My Interests
 
 I'm passionate about privacy, security, and open-source software. Some projects I support include:
@@ -32,26 +24,7 @@ I'm passionate about privacy, security, and open-source software. Some projects 
 - [Aegis](https://getaegis.app/) - Secure, open-source 2FA app for Android
 - [AntennaPod](https://antennapod.org/) - Open-source podcast player for Android
 - [Auxio](https://github.com/OxygenCobalt/Auxio) - Open-source music player for Android
-
-## 🎧 Podcasts I Enjoy
-
-- [NK News Podcast](https://www.nknews.org/category/north-korea-news-podcast/latest) - Latest news and analysis on North Korea
-- [Closed Network](https://closednetwork.io/) - Discussions on privacy, security, and technology
-- [This Week in Linux](https://tuxdigital.com/podcasts/this-week-in-linux/) - Latest news and updates in the Linux world
-- [The Modern Hippie Podcast](https://www.barrettperlman.com/the-modern-hippie-podcast) - Spirituality, meditation and self improvement
-- [Magic Hour](https://doubleblindmag.com/magichour/) - Exploring psychedelics, culture, and consciousness
-- [My Creator Life](https://undinealmani.com/podcast/) - Undine Almani's life as a digital creator
-- [Girls on Porn](https://girlsonporn.com/) - A porn review podcast
-
-These podcasts reflect my diverse interests in geopolitics, technology, privacy, security, psychedelics, wellness, sexuality, spirituality, and Linux.
-
-## 🪙 Support
-
-I use Monero, a privacy-focused cryptocurrency. If you'd like, you can donate to my Monero address:
-
-44iBaPgjHPYAVmXN6KYwa5aLXVue9yoprJVZTew94KFYPFGGjGyo54hbWPMVMCmJetcwFT1VA5x8biRZexq4wMVw9i2AVPB
-
-Monero provides enhanced privacy by obscuring both the sender and receiver addresses, as well as the transaction amount.
+- 
 
 ## 💬 Let's Connect
 
