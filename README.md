@@ -12,13 +12,13 @@
   <p style="font-style: italic; color: #666;">Give the spinning duck a click to watch me quack-a-lackin' in my intro video!</p>
 </div>
 
-## 🧑 [About Me](#about)
+## 🧑 About Me
 
 I'm passionate about various topics, including privacy, security, Monero, Linux, North Korea, Buddhism, psychedelics, music, and much more.
 
 I'm essentially a pirate. In more ways than one. Piracy is about culture; culture is about humanity, and I'm a human being.
 
-## 🤝 [My Digital Footprint](#socials)
+## 🤝 My Digital Footprint
 
 Here's a list of my online accounts that make up my digital footprint, including my fediverse pages, Bandcamp and Discogs libraries, Wiki user accounts, and my forum profiles:
 
