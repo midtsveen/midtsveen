@@ -25,7 +25,7 @@ Here's a list of my online accounts that make up my digital footprint, including
 - [SNL](https://brukere.snl.no/64413) - Store norske leksikon User page
 - [Pixey](https://pixey.org/p.marg) - Linux, photos and life moments
 - [Warframe](https://forums.warframe.com/profile/4844897-pmarg/) - Warframe forum account
-- [Mastodon](https://social.linux.pizza/@midtsveen) - Posts about free software
+- <a rel="me" href="https://social.linux.pizza/@midtsveen">Mastodon</a> - Posts about free software
 - [HipForums](https://www.hipforums.com/forum/threads/hi-friends-3.519830/#post-9449643) - Hippie lifestyle discussions
 - [Monkeytype](https://monkeytype.com/profile/p-marg) - Detailed typing statistics
 - [Bandcamp](https://bandcamp.com/pmarg) - Digital music collection
