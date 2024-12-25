@@ -3,11 +3,9 @@
 [anti-capitalist](https://en.wikipedia.org/wiki/Anti-capitalism) · [priv/acc](https://privacc.org/) · [pirate](https://falkvinge.net/pirate-wheel/)
 
 ## 🎭 About Me
-I'm passionate about privacy, security, Monero, Linux, North Korea, Buddhism, psychedelics, music, and much more.  
-
-I'm essentially a pirate. In more ways than one. Piracy is about culture, culture is about humanity, and I'm a human being.  
-
-This mindset comes from my anti-capitalistic beliefs and my heart for Pirate politics and the Priv/Acc manifesto.
+- I'm passionate about privacy, security, Monero, Linux, North Korea, Buddhism, psychedelics, music, and much more.  
+- I'm essentially a pirate. In more ways than one. Piracy is about culture, culture is about humanity, and I'm a human being.  
+- This mindset comes from my anti-capitalistic beliefs and my heart for Pirate politics and the Priv/Acc manifesto.
 
 ## 👨‍💻 My Portfolio
 - [Warframe](https://forums.warframe.com/profile/4844897-pmarg/) · <a rel="me" href="https://social.linux.pizza/@midtsveen">Mastodon</a> · [HipForums](https://www.hipforums.com/forum/threads/hi-friends-3.519830/#post-9449643)
