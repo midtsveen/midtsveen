@@ -15,6 +15,6 @@
 - [RSS](https://social.linux.pizza/@midtsveen.rss) · [Pixelfed](https://pixelfed.social/midtsveen)
 
 ## 💬 Get in Touch
-[PGP](https://midtsveen.github.io/email.html) · [Email](https://midtsveen.github.io/email.html) · [signal](https://midtsveen.github.io/SignalGroupQr.png)
+[PGP](https://midtsveen.github.io/email.html) · [Email](https://midtsveen.github.io/email.html) · [Matrix](https://matrix.to/#/@midtsveen:linux.pizza) · [signal](https://midtsveen.github.io/SignalGroupQr.png)
 
 © 2024 · Erik L. Midtsveen
