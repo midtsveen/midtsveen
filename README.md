@@ -1,6 +1,6 @@
 # Erik L. Midtsveen
 
-[Anarcho-syndicalist](https://en.wikipedia.org/wiki/Anarcho-syndicalism), [gender-fluid](https://en.wikipedia.org/wiki/Gender_fluidity) individual 🏴🏳️‍🌈
+Anarcho-syndicalist, gender-fluid individual 🏴🏳️‍🌈
 
 ## 🏳️‍🌈 About Me
 - I'm gender-fluid with interests in privacy, security, Monero, Linux, North Korea, Buddhism, decentralization, psychedelics, PeerTube, FreeTube, music, and much more.    
