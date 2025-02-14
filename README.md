@@ -1,13 +1,13 @@
 # Erik L. Midtsveen
 
-[anti-capitalist](https://en.wikipedia.org/wiki/Anarcho-syndicalism) · [priv/acc](https://privacc.org/) · [pirate](https://falkvinge.net/pirate-wheel/)
+[Anarcho-syndicalist](https://en.wikipedia.org/wiki/Anarcho-syndicalism), [gender-fluid](https://en.wikipedia.org/wiki/Gender_fluidity) individual 🏴🏳️‍🌈
 
-## 🎭 About Me
-- I'm passionate about privacy, security, Monero, Linux, North Korea, Buddhism, psychedelics, music, and much more.  
-- I'm essentially a pirate. In more ways than one. Piracy is about culture, culture is about humanity, and I'm a human being.  
-- This mindset comes from my anti-capitalistic beliefs and my heart for Pirate politics and the Priv/Acc manifesto.
+## 🏳️‍🌈 About Me
+- I'm gender-fluid with interests in privacy, security, Monero, Linux, North Korea, Buddhism, decentralization, psychedelics, PeerTube, FreeTube, music, and much more.    
+- I hold anti-capitalist and anarcho-syndicalist views influenced by Rudolf Rocker, advocating for the dismantling of oppressive hierarchies while fighting for a more just society.   
+- This mindset stems from my gender-fluidity and my deep-seated belief in anarcho-syndicalism.  
 
-## 👨‍💻 My Portfolio
+## 🕊️ Social Links
 - [Warframe](https://forums.warframe.com/profile/4844897-pmarg/) · <a rel="me" href="https://social.linux.pizza/@midtsveen">Mastodon</a> · [HipForums](https://www.hipforums.com/forum/threads/hi-friends-3.519830/#post-9449643)
 - [Monkeytype](https://monkeytype.com/profile/p-marg) · [GrapheneOS](https://discuss.grapheneos.org/u/p-marg) · [Bandcamp](https://bandcamp.com/pmarg)
 - [Wikipedia](https://en.wikipedia.org/wiki/User:Erik-Pirat) · [Discogs](https://discogs.com/user/pmarg) · [GitHub](https://github.com/midtsveen)
